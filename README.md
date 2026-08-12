@@ -2,7 +2,7 @@
 
 I'm an **MCA student** interested in **backend engineering, systems programming, and applied AI/ML**.
 
-I learn by building end-to-end projects and exploring how software works beyond basic applications — from APIs and databases to concurrency, distributed components, and machine learning.
+I learn by building end-to-end projects and exploring how software works beyond basic applications from APIs and databases to concurrency, distributed components, and machine learning.
 
 ## 🧠 Skills
 
