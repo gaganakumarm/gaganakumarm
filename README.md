@@ -2,7 +2,21 @@
 
 I'm an **MCA student** interested in **backend engineering, systems programming, and applied AI/ML**.
 
-I learn by building end-to-end projects and using them to understand how software systems work — from APIs and databases to concurrency, distributed components, and machine learning.
+I learn by building end-to-end projects and exploring how software works beyond basic applications — from APIs and databases to concurrency, distributed components, and machine learning.
+
+## 🧠 Skills
+
+**Languages:** `Python` · `C` · `SQL`
+
+**Backend:** `FastAPI` · `REST APIs`
+
+**Databases:** `PostgreSQL`
+
+**AI / ML:** `Machine Learning` · `scikit-learn` · `Data Analysis` · `Feature Engineering` · `Model Evaluation`
+
+**Software Engineering:** `Data Structures` · `OOP` · `Git` · `GitHub` · `Testing`
+
+**Worked With:** `Redis` · `Docker` · `Nginx` · `MongoDB` · `React` · `TypeScript` · `Prometheus` · `Grafana`
 
 ## 🚀 Featured Projects
 
@@ -36,34 +50,6 @@ An applied machine-learning project for retrieving fashion products using text a
 
 **Built with:** Python · scikit-learn · FastAPI · Computer Vision
 
----
-
-## 🧠 Skills
-
-### Languages
-
-`Python` · `C` · `SQL`
-
-### Backend
-
-`FastAPI` · `REST APIs`
-
-### Databases
-
-`PostgreSQL`
-
-### AI / ML
-
-`Machine Learning` · `scikit-learn` · `Data Analysis` · `Feature Engineering` · `Model Evaluation`
-
-### Software Engineering
-
-`Data Structures` · `OOP` · `Git` · `GitHub` · `Testing`
-
-### Worked With
-
-`Redis` · `Docker` · `Nginx` · `MongoDB` · `React` · `TypeScript` · `Prometheus` · `Grafana`
-
 ## 🌱 Currently Learning
 
 * System design and distributed systems
@@ -74,4 +60,4 @@ An applied machine-learning project for retrieving fashion products using text a
 
 ---
 
-*Learning by building, testing, and improving real systems.*
+Learning by building, testing, breaking, and improving real systems.
