@@ -1,74 +1,77 @@
 # Hi, I'm Gagana 👋
 
-**Software Engineer | Python Backend • Distributed Systems • AI/ML**
+I'm an **MCA student** interested in **backend engineering, systems programming, and applied AI/ML**.
 
-I build reliable software systems that go beyond basic CRUD applications — from concurrent systems in C and distributed backend architectures to real-time applications and applied machine learning.
-
-Currently pursuing my **Master of Computer Applications (MCA)** and focused on building end-to-end projects that demonstrate system design, backend engineering, concurrency, data systems, and applied AI/ML.
+I learn by building end-to-end projects and using them to understand how software systems work — from APIs and databases to concurrency, distributed components, and machine learning.
 
 ## 🚀 Featured Projects
 
-### 🔗 Distributed URL Shortener
+### 🔗 [Distributed URL Shortener](https://github.com/gaganakumarm/distributed-url-shortener)
 
-A distributed URL shortening platform built with **FastAPI, PostgreSQL, Redis, Nginx, React, Prometheus, and Grafana**.
+A full-stack URL shortening system built to explore backend architecture, caching, load balancing, authentication, analytics, and observability.
 
-* Multi-instance backend with Nginx load balancing
-* Redis cache-aside architecture and rate limiting
-* JWT authentication and Argon2 password hashing
-* Click analytics and operational monitoring
-* Automated testing and CI
+**Built with:** Python · FastAPI · PostgreSQL · Redis · Nginx · React
 
-### ⚙️ Concurrent Task Scheduling Engine in C
+---
 
-A **C17 concurrent scheduling engine** built to explore operating-system and concurrency concepts.
+### ⚙️ [Concurrent Task Scheduling Engine in C](https://github.com/gaganakumarm/concurrent-task-scheduling-engine)
 
-* Fixed worker thread pool
-* Bounded task queue
-* Blocking and non-blocking task submission
-* Mutex and condition-variable synchronization
-* Graceful shutdown and fault handling
-* Automated tests and performance benchmarks
+A concurrent task scheduling engine built to understand thread pools, task queues, synchronization, graceful shutdown, and concurrent workloads.
 
-### ✈️ Flight Operations Control System
+**Built with:** C17 · CMake · CTest
 
-A real-time operations platform for managing flights, aircraft, gates, and operational conflicts.
+---
 
-* Aircraft and gate conflict detection
-* Flight lifecycle state machine
-* Optimistic concurrency control
-* Role-based access control
-* Audit history
-* Real-time operational updates
+### ✈️ [Flight Operations Control System](https://github.com/gaganakumarm/flight-operations-control-system)
 
-### 👗 Visual Fashion Search
+A real-time application for managing flight operations while enforcing rules around aircraft assignments, gate conflicts, flight states, and concurrent updates.
 
-An applied machine-learning system for searching fashion products using **text and visual similarity**.
+**Built with:** TypeScript · Node.js · React · MongoDB
 
-* Text-based product retrieval
-* Image similarity search
-* Fashion attribute classification
-* Offline ML pipeline
-* FastAPI inference backend
+---
 
-## 🧰 Technologies
+### 👗 [Visual Fashion Search](https://github.com/gaganakumarm/visual-fashion-search)
 
-**Languages:** Python · C · JavaScript · TypeScript · SQL
+An applied machine-learning project for retrieving fashion products using text and image similarity and predicting product attributes.
 
-**Backend:** FastAPI · REST APIs · Node.js
+**Built with:** Python · scikit-learn · FastAPI · Computer Vision
 
-**Data & Infrastructure:** PostgreSQL · Redis · MongoDB · Docker · Nginx
+---
 
-**AI/ML:** scikit-learn · Computer Vision · Feature Engineering · Model Evaluation
+## 🧠 Skills
 
-**Frontend:** React · TypeScript
+### Languages
 
-**Engineering:** Git · GitHub Actions · CI/CD · Testing · Linux · Prometheus · Grafana
+`Python` · `C` · `SQL`
 
-## 🔭 Currently Exploring
+### Backend
 
-* Real-time machine learning systems
-* Event-driven and distributed architectures
-* Production-oriented AI/ML engineering
-* System design and backend scalability
+`FastAPI` · `REST APIs`
 
-*Interested in software engineering, backend systems, distributed computing, and practical AI/ML.*
+### Databases
+
+`PostgreSQL`
+
+### AI / ML
+
+`Machine Learning` · `scikit-learn` · `Data Analysis` · `Feature Engineering` · `Model Evaluation`
+
+### Software Engineering
+
+`Data Structures` · `OOP` · `Git` · `GitHub` · `Testing`
+
+### Worked With
+
+`Redis` · `Docker` · `Nginx` · `MongoDB` · `React` · `TypeScript` · `Prometheus` · `Grafana`
+
+## 🌱 Currently Learning
+
+* System design and distributed systems
+* Backend scalability and reliability
+* Real-time data processing
+* Applied AI/ML engineering
+* Concurrency and systems programming
+
+---
+
+*Learning by building, testing, and improving real systems.*
