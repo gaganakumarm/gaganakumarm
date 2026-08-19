@@ -1,63 +1,71 @@
 # Hi, I'm Gagana 👋
 
-I'm an **MCA student** interested in **backend engineering, systems programming, and applied AI/ML**.
+I'm an **MCA student** focused on **Python backend engineering, distributed systems, and applied AI/ML**.
 
-I learn by building end-to-end projects and exploring how software works beyond basic applications from APIs and databases to concurrency, distributed components, and machine learning.
+I enjoy building end-to-end systems that go beyond basic applications — from APIs and databases to concurrency, caching, distributed architecture, and machine-learning workflows.
 
-## 🧠 Skills
+## 🧠 Technical Skills
 
 **Languages:** `Python` · `C` · `SQL`
 
-**Backend:** `FastAPI` · `REST APIs`
+**Backend:** `FastAPI` · `REST APIs` · `SQLAlchemy`
 
-**Databases:** `PostgreSQL`
+**Databases:** `PostgreSQL` · `MongoDB`
 
 **AI / ML:** `Machine Learning` · `scikit-learn` · `Data Analysis` · `Feature Engineering` · `Model Evaluation`
 
-**Software Engineering:** `Data Structures` · `OOP` · `Git` · `GitHub` · `Testing`
+**Systems & Infrastructure:** `Docker` · `Redis` · `Nginx` · `Prometheus` · `Grafana`
 
-**Worked With:** `Redis` · `Docker` · `Nginx` · `MongoDB` · `React` · `TypeScript` · `Prometheus` · `Grafana`
+**Software Engineering:** `Data Structures` · `OOP` · `Git` · `GitHub` · `Testing` · `Concurrency`
+
+**Frontend Experience:** `React` · `TypeScript`
 
 ## 🚀 Featured Projects
 
 ### 🔗 [Distributed URL Shortener](https://github.com/gaganakumarm/distributed-url-shortener)
 
-A full-stack URL shortening system built to explore backend architecture, caching, load balancing, authentication, analytics, and observability.
+A distributed URL shortening platform built to explore scalable backend architecture, caching, load balancing, authentication, analytics, observability, and failure handling.
 
-**Built with:** Python · FastAPI · PostgreSQL · Redis · Nginx · React
+**Built with:** Python · FastAPI · PostgreSQL · Redis · Nginx · React · Docker
+
+**Engineering focus:** Distributed systems · Caching · Load balancing · API design · Observability
 
 ---
 
-### ⚙️ [Concurrent Task Scheduling Engine in C](https://github.com/gaganakumarm/concurrent-task-scheduling-engine)
+### ⚙️ [Concurrent Task Scheduling Engine](https://github.com/gaganakumarm/concurrent-task-scheduling-engine)
 
-A concurrent task scheduling engine built to understand thread pools, task queues, synchronization, graceful shutdown, and concurrent workloads.
+A concurrent task scheduling engine built in C to explore worker pools, bounded task queues, synchronization, graceful shutdown, and concurrent workload execution.
 
 **Built with:** C17 · CMake · CTest
 
+**Engineering focus:** Concurrency · Multithreading · Synchronization · Systems programming
+
 ---
 
-### ✈️ [Flight Operations Control System](https://github.com/gaganakumarm/flight-operations-control-system)
+### 🧪 [AI Pharmaceutical Complaint Management System](https://github.com/gaganakumarm/ai-pharma-complaint-qms)
 
-A real-time application for managing flight operations while enforcing rules around aircraft assignments, gate conflicts, flight states, and concurrent updates.
+An AI-assisted pharmaceutical complaint management system that converts complaint information into structured drafts and provides preliminary investigation support while keeping human review in the workflow.
 
-**Built with:** TypeScript · Node.js · React · MongoDB
+**Built with:** Python · FastAPI · PostgreSQL · LangGraph · React · TypeScript
+
+**Engineering focus:** AI workflows · Backend architecture · Structured LLM outputs · Human-in-the-loop systems
 
 ---
 
 ### 👗 [Visual Fashion Search](https://github.com/gaganakumarm/visual-fashion-search)
 
-An applied machine-learning project for retrieving fashion products using text and image similarity and predicting product attributes.
+An applied machine-learning system for retrieving fashion products using text and image similarity while also predicting product attributes.
 
 **Built with:** Python · scikit-learn · FastAPI · Computer Vision
 
+**Engineering focus:** Machine learning · Image retrieval · Similarity search · Feature engineering
+
 ## 🌱 Currently Learning
 
-* System design and distributed systems
-* Backend scalability and reliability
-* Real-time data processing
-* Applied AI/ML engineering
-* Concurrency and systems programming
+- System design and distributed systems
+- Backend scalability and reliability
+- Applied AI/ML engineering
+- Real-time data processing
+- Concurrency and systems programming
 
 ---
-
-Learning by building, testing, breaking, and improving real systems.
