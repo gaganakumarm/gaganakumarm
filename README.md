@@ -2,7 +2,7 @@
 
 I'm an **MCA student** focused on **Python backend engineering, distributed systems, and applied AI/ML**.
 
-I enjoy building end-to-end systems that go beyond basic applications — from APIs and databases to concurrency, caching, distributed architecture, and machine-learning workflows.
+I enjoy building end-to-end systems that go beyond basic applications from APIs and databases to concurrency, caching, distributed architecture, and machine-learning workflows.
 
 ## 🧠 Technical Skills
 
