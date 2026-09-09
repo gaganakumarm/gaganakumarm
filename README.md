@@ -89,11 +89,4 @@ Areas I'm currently developing deeper expertise in:
 * production-oriented ML/AI workflows
 * cloud infrastructure and observability
 
----
-
-## 📫 Connect
-
 I'm currently interested in opportunities in **Python Backend Engineering, AI/ML Engineering, and Software Engineering**, with a long-term focus on **AI/ML Systems**.
-
-**LinkedIn:** [linkedin.com/in/gaganak](https://linkedin.com/in/gaganak)
-**GitHub:** [github.com/gaganakumarm](https://github.com/gaganakumarm)
