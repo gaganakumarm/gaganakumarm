@@ -1,71 +1,99 @@
 # Hi, I'm Gagana 👋
 
-I'm an **MCA student** focused on **Python backend engineering, distributed systems, and applied AI/ML**.
+I'm an MCA student and software developer focused on building **reliable backend and AI/ML systems**.
 
-I enjoy building end-to-end systems that go beyond basic applications from APIs and databases to concurrency, caching, distributed architecture, and machine-learning workflows.
+My work spans Python backend development, distributed architecture, concurrency, machine learning, and human-in-the-loop AI systems. I'm particularly interested in the intersection of **software engineering and machine learning** — building the infrastructure and backend systems that make AI applications reliable, scalable, and useful in production.
 
-## 🧠 Technical Skills
-
-**Languages:** `Python` · `C` · `SQL`
-
-**Backend:** `FastAPI` · `REST APIs` · `SQLAlchemy`
-
-**Databases:** `PostgreSQL` · `MongoDB`
-
-**AI / ML:** `Machine Learning` · `scikit-learn` · `Data Analysis` · `Feature Engineering` · `Model Evaluation`
-
-**Systems & Infrastructure:** `Docker` · `Redis` · `Nginx` · `Prometheus` · `Grafana`
-
-**Software Engineering:** `Data Structures` · `OOP` · `Git` · `GitHub` · `Testing` · `Concurrency`
-
-**Frontend Experience:** `React` · `TypeScript`
-
-## 🚀 Featured Projects
-
-### 🔗 [Distributed URL Shortener](https://github.com/gaganakumarm/distributed-url-shortener)
-
-A distributed URL shortening platform built to explore scalable backend architecture, caching, load balancing, authentication, analytics, observability, and failure handling.
-
-**Built with:** Python · FastAPI · PostgreSQL · Redis · Nginx · React · Docker
-
-**Engineering focus:** Distributed systems · Caching · Load balancing · API design · Observability
+My long-term direction is toward **AI/ML Systems Engineering**, with Python backend and distributed systems as my engineering foundation.
 
 ---
+
+## 🚀 Projects
 
 ### ⚙️ [Concurrent Task Scheduling Engine](https://github.com/gaganakumarm/concurrent-task-scheduling-engine)
 
-A concurrent task scheduling engine built in C to explore worker pools, bounded task queues, synchronization, graceful shutdown, and concurrent workload execution.
+A **C17 concurrent task scheduling library** built around a bounded FIFO queue and fixed worker pool, with explicit lifecycle management, graceful shutdown, deterministic testing, and performance benchmarking.
 
-**Built with:** C17 · CMake · CTest
+`C17` `CMake` `CTest` `Multithreading` `Concurrency`
 
-**Engineering focus:** Concurrency · Multithreading · Synchronization · Systems programming
-
----
-
-### 🧪 [AI Pharmaceutical Complaint Management System](https://github.com/gaganakumarm/ai-pharma-complaint-qms)
-
-An AI-assisted pharmaceutical complaint management system that converts complaint information into structured drafts and provides preliminary investigation support while keeping human review in the workflow.
-
-**Built with:** Python · FastAPI · PostgreSQL · LangGraph · React · TypeScript
-
-**Engineering focus:** AI workflows · Backend architecture · Structured LLM outputs · Human-in-the-loop systems
+**Focus:** worker pools · synchronization · bounded queues · lifecycle management · systems programming · performance
 
 ---
 
-### 👗 [Visual Fashion Search](https://github.com/gaganakumarm/visual-fashion-search)
+### 🔗 [Distributed URL Shortener](https://github.com/gaganakumarm/distributed-url-shortener)
 
-An applied machine-learning system for retrieving fashion products using text and image similarity while also predicting product attributes.
+A distributed URL-shortening platform that goes beyond basic CRUD with **load-balanced FastAPI replicas, Redis caching and rate limiting, PostgreSQL persistence, authentication, analytics, observability, and failure handling**.
 
-**Built with:** Python · scikit-learn · FastAPI · Computer Vision
+`Python` `FastAPI` `PostgreSQL` `Redis` `Nginx` `Docker`
 
-**Engineering focus:** Machine learning · Image retrieval · Similarity search · Feature engineering
-
-## 🌱 Currently Learning
-
-- System design and distributed systems
-- Backend scalability and reliability
-- Applied AI/ML engineering
-- Real-time data processing
-- Concurrency and systems programming
+**Focus:** distributed systems · caching · load balancing · API design · reliability · observability
 
 ---
+
+### 🧪 [AI Pharmaceutical Complaint QMS](https://github.com/gaganakumarm/ai-pharma-complaint-qms)
+
+A human-in-the-loop complaint investigation system for pharmaceutical quality workflows, supporting **structured complaint extraction, risk assessment, duplicate detection, and RCA/CAPA recommendations**.
+
+`Python` `FastAPI` `PostgreSQL` `LangGraph` `React` `TypeScript`
+
+**Focus:** AI workflows · structured LLM outputs · backend architecture · deterministic validation · human review
+
+---
+
+### 🧾 [AI Refund Eligibility Assistant](https://github.com/gaganakumarm/ai-refund-eligibility-assistant)
+
+An AI-assisted refund review system combining **deterministic eligibility rules, BM25 policy retrieval, and evidence-grounded AI explanations** to help support agents evaluate refund requests.
+
+`Python` `FastAPI` `PostgreSQL` `React` `TypeScript` `Gemini` `Docker`
+
+**Focus:** deterministic decision logic · information retrieval · evidence-grounded AI · human-in-the-loop review
+
+---
+
+### 📦 [Slow-Selling SKU Recommendation](https://github.com/gaganakumarm/slow-selling-sku-recommendation)
+
+An ML decision-support system built on **Walmart M5 data** to identify slow-selling SKU-store combinations and evaluate conservative markdown scenarios.
+
+`Python` `scikit-learn` `FastAPI` `Streamlit` `Docker`
+
+**Focus:** machine learning · time-series features · model evaluation · feature engineering · decision support
+
+---
+
+## 🧰 Technical Toolbox
+
+| Area               | Technologies                                                                   |
+| ------------------ | ------------------------------------------------------------------------------ |
+| **Languages**      | Python · C · SQL · TypeScript                                                  |
+| **Backend**        | FastAPI · Django · Django REST Framework · SQLAlchemy · REST APIs              |
+| **Data**           | PostgreSQL · MongoDB · Redis                                                   |
+| **AI / ML**        | scikit-learn · LangGraph · RAG · BM25 · Feature Engineering · Model Evaluation |
+| **Systems**        | Concurrency · Multithreading · Worker Pools · Synchronization                  |
+| **Infrastructure** | Docker · Nginx · Celery · Prometheus · Grafana                                 |
+| **Frontend**       | React · TypeScript                                                             |
+| **Engineering**    | Git · GitHub Actions · Pytest · CTest · CMake                                  |
+
+---
+
+## 🎯 Engineering Direction
+
+I'm building toward **AI/ML Systems Engineering** — the intersection of machine learning and production software engineering.
+
+Areas I'm currently developing deeper expertise in:
+
+* scalable Python backend engineering
+* distributed systems and reliability
+* concurrency and systems programming
+* model serving and AI application architecture
+* retrieval and evaluation systems
+* production-oriented ML/AI workflows
+* cloud infrastructure and observability
+
+---
+
+## 📫 Connect
+
+I'm currently interested in opportunities in **Python Backend Engineering, AI/ML Engineering, and Software Engineering**, with a long-term focus on **AI/ML Systems**.
+
+**LinkedIn:** [linkedin.com/in/gaganak](https://linkedin.com/in/gaganak)
+**GitHub:** [github.com/gaganakumarm](https://github.com/gaganakumarm)
