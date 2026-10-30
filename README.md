@@ -15,13 +15,6 @@ An AI-assisted coronary angiography viewer that reads DICOM angiograms (single f
 
 **Focus:** medical imaging · deep learning · image segmentation · quantitative measurement · human-in-the-loop review
 
-### 🔄 [DataBridge](https://github.com/gaganakumarm/databridge)
-A data integration platform foundation with transactional PostgreSQL metadata, append-only audit trails enforced by database triggers, race-safe checkpoints and fault-tolerant API connectors with bounded retries, rate-limit handling and logs that never contain credentials or payloads.
-
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `HTTPX` `React` `Docker` `GitHub Actions`
-
-**Focus:** data integrity · transactions · audit safety · fault tolerance · secure logging · CI quality gates
-
 ### 🧪 [AI Pharmaceutical Complaint QMS](https://github.com/gaganakumarm/ai-pharma-complaint-qms)
 A human-in-the-loop complaint investigation system for pharmaceutical quality workflows, supporting structured complaint extraction, risk assessment, duplicate detection and RCA/CAPA recommendations.
 
