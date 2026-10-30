@@ -6,7 +6,7 @@ My work spans Python backend development, distributed architecture, concurrency,
 
 ---
 
-## 🚀 Projects
+## PROJECTS
 
 ### 🫀 [AngioAssist](https://github.com/gaganakumarm/angioassist)
 An AI-assisted coronary angiography viewer that reads DICOM angiograms (single frame and cine), enhances them, segments coronary arteries with a U-Net and measures vessel narrowing (% diameter stenosis, MLD and RVD in mm), with clinician accept/reject review and PDF reports. Vessel segmentation reaches a Dice score of 0.70 on 300 unseen ARCADE test images.
@@ -45,7 +45,7 @@ An ML decision-support system built on Walmart M5 data to identify slow-selling 
 
 ---
 
-## 🧰 Technical Toolbox
+## TECHNICAL TOOLBOX
 
 | Area | Technologies |
 |---|---|
